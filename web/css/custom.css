@@ -1,0 +1,87 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 1, 2015, 11:18:31 AM
+    Author     : mzingayendhlovu
+*/
+
+
+body {
+	
+      background-image: url("../images/back.jpg");
+      background-repeat: no-repeat;
+      background-size: 100% 180%;
+	
+	font-family: "Ruda",sans-serif;
+	padding: 0px;
+	margin: 0px;
+	font-size: 13px;
+}
+
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.4285;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+
+.form-control-2 {
+    display: block;
+    width: 100%;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.4285;
+    color: #555;
+    background-color: #FFFF00;
+    background-image: none;
+    border: 1px solid white;
+    border-radius: 0px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .075);
+    box-shadow: inset 0px 1px 1px rgba(0,0,0,0.075);
+    -webkit-transition: border-color ease-in-out .15s, -webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s, box-shadow ease-in-out .15s;
+}
+
+
+
+.form-login h2.form-login-heading {
+	margin: 0px;
+	padding: 25px 20px;
+	text-align: center;
+	background: #02144C none repeat scroll 0% 0%;
+	border-radius: 0px 0px 0px 0px;
+	color: #FFF;
+	font-size: 20px;
+	text-transform: uppercase;
+	font-weight: 300;
+}
+.login-wrap {
+	padding: 20px;
+}
+
+.form-login{
+	max-width: 330px;
+	margin: 100px auto 0px;
+	background: #FFF none repeat scroll 0% 0%;
+	border-radius: 0px;
+}
+//ngib things

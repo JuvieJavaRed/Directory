@@ -1,0 +1,53 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 19, 2015, 11:40:53 AM
+    Author     : avlab6
+*/
+#nameb{
+    float: next;
+    width: 180px;
+    height: 45.4545px;
+    margin-left: 5px;
+}
+#building_Idb{
+    float: next;
+    width: 180px;
+    height: 45.4545px;
+    margin-left: 5px;
+}
+#number_officesb{
+    float: next;
+    width: 180px;
+    height: 45.4545px;
+    margin-left: 5px;
+}
+#number_floorsb{
+    float: next;
+    width: 180px;
+    height: 45.4545px;
+    margin-left: 5px;
+}
+.btn-lg1{
+        float:next;
+        height: 45.4545px;
+        //line-height: 1.3333333;
+        border-radius: 0px;
+        padding-top: 10px;
+        padding-right: 16px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        font-size: 10px;
+}
+.glyphicon-info-sign{
+    height: 20px;
+    width: 30px;
+    font-family: 'Glyphicons Halflings';
+}
+.glyphicon-edit{
+    height: 10px;
+    width: 20px;
+}

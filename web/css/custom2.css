@@ -1,0 +1,225 @@
+lol/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Oct 3, 2015, 9:47:16 AM
+    Author     : mzingayendhlovu
+*/
+
+#searchbox{
+		
+		border-radius: 0px;    
+		 width: 750px;
+		height: 150px;
+		margin:  auto;
+		overflow: hidden;
+                padding-top: 100px;
+	}
+	#search, #submit{
+    	float: left;
+	}
+
+	#search {
+		padding: 5px 9px;
+		height: 50px;
+		width: 500px;
+		border: 1px solid #CCC;
+		font: normal 20px 'trebuchet MS', arial, helvetica;
+		background: white;
+		border-radius: 0px 0px 0px 0px;
+                
+		          
+	}
+	#search:focus{
+		background-color:#f1f1f1;
+		outline:0;
+                
+	}
+	#submit{
+		background:#ccc;       
+		border-radius: 0px 0px 0px 0px;
+		border: 1px solid #CCC;   
+		height: 50px;
+		margin: 0 0 0 -3px;
+		width: 50px;
+		cursor: pointer;
+		font: bold 14px Arial, Helvetica;
+		color: #23441e;    
+		text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+	}
+	#submit:hover{
+		background-color:#999;
+		outline:none;
+	}
+	#submit:active{
+		outline:none;
+		
+	}
+        .navbar {
+	border-radius: 0px;
+}
+
+//for logo and stuff at the left side of the search bar
+#submit2{
+                display : inline-block;
+		background:#ccc;       
+		border-radius: 0px 0px 0px 0px;
+		border: 1px solid #CCC;   
+		height: 50px;
+		margin: 0 0 0 -3px;
+		width: 50px;
+		cursor: pointer;
+		font: bold 14px Arial, Helvetica;
+		color: #23441e;    
+		text-shadow: 0 1px 0 rgba(255,255,255,0.5);
+	}
+        
+        #submit2{
+    	float: left;
+	}
+        
+        #submit2:hover{
+		background-color:#999;
+		outline:none;
+	}
+	#submit2:active{
+		outline:none;
+        }
+               
+.placeholders {
+  margin-bottom: 30px;
+  text-align: center;
+}
+.placeholders h4 {
+  margin-bottom: 0;
+}
+.placeholder {
+  margin-bottom: 20px;
+}
+.placeholder img {
+  display: inline-block;
+  border-radius: 50%;
+}
+#search{
+    float: next;
+    width: 300px;
+    height: 45.4545px;
+    margin-left: 5px;
+}
+#name{
+    float: next;
+    width: 300px;
+    height: 45.4545px;
+    margin-left: 5px;
+}
+#building_Id{
+    float: next;
+    width: 300px;
+    height: 45.4545px;
+    margin-left: 5px;
+}
+#number_offices{
+    float: next;
+    width: 300px;
+    height: 45.4545px;
+    margin-left: 5px;
+}
+#number_floors{
+    float: next;
+    width: 300px;
+    height: 45.4545px;
+    margin-left: 5px;
+}
+.btn-lg1{
+        float:left;
+        line-height: 1.3333333;
+        border-radius: 0px;
+        padding-top: 10px;
+        padding-right: 16px;
+        padding-bottom: 10px;
+        padding-left: 16px;
+        font-size: 18px;
+        background-color: #0B336F;
+}
+.glyphicon-add{
+    -webkit-font-smoothing: antialiased;
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Arial, Helvetica, sans-serif';
+    margin-left: auto;
+    
+}
+.btn-lg{
+    border-radius: 0px;
+    position: relative;
+    margin: auto;
+    background-color: #0B336F;
+}
+.form-group{
+    //margin: auto;
+    float: inside;
+    padding-left: 100px;
+   
+}
+.form-group1{
+    alignment-baseline: after-edge;
+     
+}
+.form-group2{
+    //margin: auto;
+    float: right;
+   
+}
+.btn-lg2{
+    border-radius: 0px;
+    background-color: #0B336F;
+}
+.navbar-header{
+   height: 100px;
+  
+   
+    
+}
+.container{
+    margin-top: 100px;
+
+}
+.navbar navbar-inverse navbar-fixed-top{
+    color:#245580;
+}
+.container-fluid1{
+      background-image:url("../images/img.jpg");
+      color:#0B336F;
+}
+.navbar-inverse .navbar-brand:hover, .navbar-inverse .navbar-brand:focus {
+    color: darkblue;
+    background-color: transparent;
+}
+
+.navbar-nav {
+   
+    margin: 0;
+    padding-left: 35%;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: darkblue;
+}
+.navbar-inverse .navbar-brand {
+    color: darkblue;
+}
+navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: #101010;
+    color: #00008B;
+    background-color: azure;
+}
+.navbar-inverse .navbar-collapse, .navbar-inverse .navbar-form {
+    border-color: black;
+    background-image:url("../images/img.jpg");
+    background-repeat: repeat-x;
+    width: 150%;
+}
+
